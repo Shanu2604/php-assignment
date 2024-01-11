@@ -11,7 +11,7 @@ __3) RESTful API__
 
 __4) Integration of the RESTful API into a front-end application__
 
-#### Outputs
+## Outputs
 
 __output - 1__
 
@@ -55,11 +55,18 @@ __output - 4__
 
 
 
-## Tech Stack
+## Tech Stacks used
 
 **Client:** HTML, CSS, Ajax
 
 **Server:** Php, MySQL, RESTful API
+
+# Hi, I'm Shantanu!🙋‍♂️🙋‍♂
+
+
+## 🚀About Me
+
+I am a final year B.Tech student, passionate about web development.
 
 
 ## 🛠 Skills
