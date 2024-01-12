@@ -80,7 +80,7 @@ I am a final year B.Tech student, passionate about web development.
 
 * __Data Structures and Algorithms__
 
-* __Soft Skills:__ Team Leadership, Time Managemen
+* __Soft Skills:__ Team Leadership, Time Management
 
 
 ## 🔗 Links
